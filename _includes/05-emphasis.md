@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Proficient in C/C++*
+
+**Have experience in Java**
+
+_**Trying** to learn software engineering_
